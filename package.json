@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "foo": "foo --bar"
+    },
+"dependencies": {
+    
+    
+"knip": "^5.61.3"
+    
+}
+}
